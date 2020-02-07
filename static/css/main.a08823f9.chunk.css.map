@@ -1,0 +1,1 @@
+{"version":3,"sources":["card.css"],"names":[],"mappings":"AAAA,gBACI,kEAAoE,CACpE,qBACJ","file":"main.a08823f9.chunk.css","sourcesContent":[".picHover:hover {\n    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);\n    border: 2px solid black;\n}"]}
